@@ -496,7 +496,7 @@
         {
             "xmlname":"originInfo",
             "input_type":"node",
-            "label":"Genre",
+            "label":"Origin info",
             "attributes":[
                 {
                     "xmlname":"lang",
