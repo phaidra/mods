@@ -1311,8 +1311,10 @@
                             "label":"Type"
                         }
                     ]
-                },
-                {
+                }
+            ]
+        },
+        {
                     "xmlname":"abstract",
                     "input_type":"input_textarea",
                     "label":"Abstract",
@@ -3621,7 +3623,5 @@
                         }
                     ]
                 }
-            ]
-        }
     ]
 }
