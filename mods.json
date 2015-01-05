@@ -3,7 +3,6 @@
         {
             "xmlname":"titleInfo",
             "input_type":"node",
-            "mandatory":1,
             "label":"Title info",
             "attributes":[
                 {
@@ -87,6 +86,7 @@
                     "xmlname":"title",
                     "input_type":"input_text",
                     "label":"Title",
+                    "mandatory":1,
                     "attributes":[
                         {
                             "xmlname":"lang",
