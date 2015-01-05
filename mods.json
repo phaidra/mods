@@ -2550,6 +2550,7 @@
             "xmlname":"relatedItem",
             "input_type":"node",
             "label":"Related item",
+            "hidden":1,
             "children":[
                 
             ],
@@ -3261,6 +3262,7 @@
             "extensible":1,
             "input_type":"node",
             "label":"Extension",
+            "hidden":1,
             "attributes":[
                 {
                     "xmlname":"displayLabel",
