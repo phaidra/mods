@@ -176,7 +176,6 @@
         {
             "xmlname":"name",
             "input_type":"node",
-            "mandatory":1,
             "label":"Name",
             "attributes":[
                 {
