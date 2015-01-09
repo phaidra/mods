@@ -252,13 +252,14 @@
                 },
                 {
                     "xmlname":"role",
-                    "input_type":"input_text",
+                    "input_type":"node",
                     "label":"Role",
                     "children":[
                         {
                             "xmlname":"roleTerm",
                             "input_type":"input_text",
                             "label":"Role term",
+                            "mandatory":1,
                             "attributes":[
                                 {
                                     "xmlname":"type",
@@ -1783,7 +1784,6 @@
                         {
                             "xmlname":"namePart",
                             "input_type":"input_text",
-                            "mandatory":1,
                             "label":"Name part",
                             "attributes":[
                                 {
