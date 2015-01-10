@@ -592,33 +592,6 @@
                     ]
                 },
                 {
-                    "xmlname":"publisher",
-                    "input_type":"input_text",
-                    "label":"Publisher",
-                    "attributes":[
-                        {
-                            "xmlname":"supplied",
-                            "input_type":"select",
-                            "label":"Supplied"
-                        },
-                        {
-                            "xmlname":"lang",
-                            "input_type":"input_text",
-                            "label":"Language"
-                        },
-                        {
-                            "xmlname":"script",
-                            "input_type":"input_text",
-                            "label":"Script"
-                        },
-                        {
-                            "xmlname":"transliteration",
-                            "input_type":"input_text",
-                            "label":"Transliteration"
-                        }
-                    ]
-                },
-                {
                     "xmlname":"dateIssued",
                     "input_type":"input_datetime",
                     "label":"Date issued",
