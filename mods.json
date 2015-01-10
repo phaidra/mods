@@ -97,6 +97,11 @@
             ],
             "attributes":[
                 {
+                    "xmlname":"xlink:href",
+                    "input_type":"input_text",
+                    "label":"Link"
+                },
+                {
                     "xmlname":"lang",
                     "input_type":"input_text",
                     "label":"Language"
@@ -171,6 +176,7 @@
                     "input_type":"input_text",
                     "label":"Alternative content"
                 }
+                :
             ]
         },
         {
@@ -184,6 +190,11 @@
                     "mandatory":1,
                     "label":"Name part",
                     "attributes":[
+                        {
+                            "xmlname":"xlink:href",
+                            "input_type":"input_text",
+                            "label":"Link"
+                        },
                         {
                             "xmlname":"type",
                             "input_type":"select",
@@ -1250,6 +1261,11 @@
                     "label":"Note",
                     "attributes":[
                         {
+                            "xmlname":"xlink:href",
+                            "input_type":"input_text",
+                            "label":"Link"
+                        },
+                        {
                             "xmlname":"typeURI",
                             "input_type":"select",
                             "label":"Type URI"
@@ -1321,6 +1337,11 @@
             "label":"Abstract",
             "attributes":[
                 {
+                    "xmlname":"xlink:href",
+                    "input_type":"input_text",
+                    "label":"Link"
+                },
+                {
                     "xmlname":"lang",
                     "input_type":"input_text",
                     "label":"Language"
@@ -1372,6 +1393,11 @@
             "input_type":"input_textarea",
             "label":"Table of contents",
             "attributes":[
+                {
+                    "xmlname":"xlink:href",
+                    "input_type":"input_text",
+                    "label":"Link"
+                },
                 {
                     "xmlname":"lang",
                     "input_type":"input_text",
@@ -1471,6 +1497,11 @@
             "input_type":"input_text",
             "label":"Note",
             "attributes":[
+                {
+                    "xmlname":"xlink:href",
+                    "input_type":"input_text",
+                    "label":"Link"
+                },
                 {
                     "xmlname":"lang",
                     "input_type":"input_text",
@@ -1735,6 +1766,11 @@
                     ],
                     "attributes":[
                         {
+                            "xmlname":"xlink:href",
+                            "input_type":"input_text",
+                            "label":"Link"
+                        },
+                        {
                             "xmlname":"lang",
                             "input_type":"input_text",
                             "label":"Language"
@@ -1854,7 +1890,7 @@
                         },
                         {
                             "xmlname":"role",
-                            "input_type":"input_text",
+                            "input_type":"node",
                             "label":"Role",
                             "children":[
                                 {
@@ -2443,6 +2479,11 @@
             ],
             "attributes":[
                 {
+                    "xmlname":"xlink:href",
+                    "input_type":"input_text",
+                    "label":"Link"
+                },
+                {
                     "xmlname":"lang",
                     "input_type":"input_text",
                     "label":"Language"
@@ -2556,6 +2597,11 @@
             ],
             "attributes":[
                 {
+                    "xmlname":"xlink:href",
+                    "input_type":"input_text",
+                    "label":"Link"
+                },
+                {
                     "xmlname":"displayLabel",
                     "input_type":"input_text",
                     "label":"Display label"
@@ -2616,7 +2662,7 @@
         },
         {
             "xmlname":"location",
-            "input_type":"input_text",
+            "input_type":"node",
             "label":"Location",
             "children":[
                 {
@@ -2624,6 +2670,11 @@
                     "input_type":"input_text",
                     "label":"Physical location",
                     "attributes":[
+                        {
+                            "xmlname":"xlink:href",
+                            "input_type":"input_text",
+                            "label":"Link"
+                        },
                         {
                             "xmlname":"authority",
                             "input_type":"select",
@@ -2829,6 +2880,11 @@
                                     "label":"Note",
                                     "attributes":[
                                         {
+                                            "xmlname":"xlink:href",
+                                            "input_type":"input_text",
+                                            "label":"Link"
+                                        },
+                                        {
                                             "xmlname":"lang",
                                             "input_type":"input_text",
                                             "label":"Language"
@@ -2937,6 +2993,11 @@
             "input_type":"input_text",
             "label":"Access condition",
             "attributes":[
+                {
+                    "xmlname":"xlink:href",
+                    "input_type":"input_text",
+                    "label":"Link"
+                },
                 {
                     "xmlname":"lang",
                     "input_type":"input_text",
@@ -3196,6 +3257,11 @@
                     "input_type":"input_text",
                     "label":"Text",
                     "attributes":[
+                        {
+                            "xmlname":"xlink:href",
+                            "input_type":"input_text",
+                            "label":"Link"
+                        },
                         {
                             "xmlname":"lang",
                             "input_type":"input_text",
