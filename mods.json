@@ -3570,7 +3570,6 @@
             "xmlname":"relatedItem",
             "input_type":"node",
             "label":"Related item",
-            "hidden":1,
             "children":[
                 
             ],
